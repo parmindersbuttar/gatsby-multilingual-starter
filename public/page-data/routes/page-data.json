@@ -1,0 +1,10 @@
+{
+    "componentChunkName": "component---src-pages-routes-js",
+    "path": "/routes/",
+    "result": {
+        "pageContext": {
+            "isCreatedByStatefulCreatePages": true,
+            "locale": "en"
+        }
+    }
+}

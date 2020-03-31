@@ -1,0 +1,17 @@
+{
+    "componentChunkName": "component---src-pages-page-2-js",
+    "path": "/page-suivante",
+    "result": {
+        "data": {
+            "file": {
+                "childIndexJson": {
+                    "siteTitle": "Welcome"
+                }
+            }
+        },
+        "pageContext": {
+            "isCreatedByStatefulCreatePages": true,
+            "locale": "en"
+        }
+    }
+}
